@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 ¡Hola! Soy Sebastián Nuñez
+# ¡Hola! Soy Sebastián Nuñez
 
 ### Estudiante de Ingeniería de Sistemas · Desarrollo Web y Bases de Datos
 
@@ -13,17 +13,17 @@
 
 ---
 
-## 🧑‍💻 Sobre mí
+## Sobre mí
 
-- 🎓 Estudiante de **Ingeniería de Sistemas** en la Universidad de Córdoba.
-- 🌐 Enfocado en **desarrollo web** y **gestión de bases de datos**.
-- 🛠️ Aprendo construyendo: me gustan los proyectos prácticos, desde sistemas administrativos hasta scripts de automatización.
-- 🔌 Curioso por la **electrónica** y la simulación de hardware (Arduino / Tinkercad).
-- 🤝 Abierto a colaborar y a trabajar con equipos remotos.
+- Estudiante de **Ingeniería de Sistemas** en la Universidad de Córdoba.
+- Enfocado en **desarrollo web** y **gestión de bases de datos**.
+- Aprendo construyendo: me gustan los proyectos prácticos, desde sistemas administrativos hasta scripts de automatización.
+- Curioso por la **electrónica** y la simulación de hardware (Arduino / Tinkercad).
+- Abierto a colaborar y a trabajar con equipos remotos.
 
 ---
 
-## 🧰 Tecnologías
+## Tecnologías
 
 **Lenguajes**
 
@@ -51,7 +51,7 @@
 
 ---
 
-## 🚀 Proyectos destacados
+## Proyectos destacados
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
@@ -62,15 +62,15 @@
 | [**Asesorias**](https://github.com/imzsebas/Asesorias) | Gestión de asesorías jurídicas. | JavaScript |
 | [**fruit-freshness-detector**](https://github.com/imzsebas/fruit-freshness-detector) | Modelo que detecta la frescura de frutas a partir de imágenes. | Jupyter Notebook |
 
-### 🔧 Otros proyectos en desarrollo
+### Otros proyectos en desarrollo
 
-- 🏛️ **Sistema para consultorio jurídico**: aplicación web con cuatro roles (Estudiante, Monitor, Asesora y Administradora) para organizar la atención y el seguimiento de casos.
-- 📂 **Gestor-Asesorias.ps1**: script en PowerShell que indexa y administra carpetas de casos de asesoría, cruzándolas con un registro consolidado en Excel.
-- ✍️ **Table Transcriber**: app en Streamlit que usa la API de Gemini para transcribir tablas escritas a mano (desde fotos) a archivos de Excel.
+- **Sistema para consultorio jurídico**: aplicación web con cuatro roles (Estudiante, Monitor, Asesora y Administradora) para organizar la atención y el seguimiento de casos.
+- **Gestor-Asesorias.ps1**: script en PowerShell que indexa y administra carpetas de casos de asesoría, cruzándolas con un registro consolidado en Excel.
+- **Table Transcriber**: app en Streamlit que usa la API de Gemini para transcribir tablas escritas a mano (desde fotos) a archivos de Excel.
 
 ---
 
-## 📊 Estadísticas de GitHub
+## Estadísticas de GitHub
 
 <div align="center">
 
@@ -81,20 +81,6 @@
 
 ---
 
-## 🎯 Estoy aprendiendo / explorando
-
-- 🧱 Arquitectura de aplicaciones web y diseño de bases de datos
-- 🤖 Integración de APIs de IA en proyectos reales
-- 🔌 Electrónica básica y simulación con Arduino
-
----
-
-## 📫 Hablemos
+## Hablemos
 
 ¿Te interesa colaborar o tienes una idea en mente? Escríbeme por GitHub o abre un issue en cualquiera de mis repositorios.
-
-<div align="center">
-
-⭐ *Si algún proyecto te sirvió, ¡déjame una estrella!* ⭐
-
-</div>
